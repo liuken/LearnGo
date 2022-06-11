@@ -1,3 +1,3 @@
-module github.com/liuken/LearnGo/module/mod_name
+module github.com/liuken/LearnGo/module/module_name
 
 go 1.18
